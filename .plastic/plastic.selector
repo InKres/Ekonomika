@@ -1,0 +1,4 @@
+repository "MIDIS@FGcompany@cloud"
+  path "/"
+    smartbranch "/main"                 
+     
